@@ -8,4 +8,17 @@ body {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: center
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center
+
+}
+
+.block {
+    display: flex;
+
 }
